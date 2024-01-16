@@ -26,4 +26,4 @@ The Anonymous Secrets Website provides a space for users to share their secrets 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/Secrets-OAuth.git
+   git clone https://github.com/sukhbir77/secrets-website-nodejs.git
